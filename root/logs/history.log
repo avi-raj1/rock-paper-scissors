@@ -1,0 +1,70 @@
+2022-12-15 22:06:41,303 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:06:42,682 Final score: user = 0.5 computer = 0.5. Result: Draw
+2022-12-15 22:06:50,234 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:06:51,290 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:06:51,985 User choice = Paper, Computer Choice = Paper
+2022-12-15 22:06:53,787 Final score: user = 0.5 computer = 2.5. Result: Computer wins
+2022-12-15 22:11:04,619 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:11:05,812 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:11:06,694 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:11:07,493 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:11:08,840 Final score: user = 3.0 computer = 1.0. Result: User wins
+2022-12-15 22:21:36,300 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:21:37,605 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:21:38,642 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:21:39,415 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:21:40,156 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:21:42,992 User choice = Paper, Computer Choice = Rock
+2022-12-15 22:21:43,773 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:21:46,261 User choice = Scissors, Computer Choice = Rock
+2022-12-15 22:21:47,041 User choice = Scissors, Computer Choice = Scissors
+2022-12-15 22:21:47,571 User choice = Scissors, Computer Choice = Paper
+2022-12-15 22:21:49,187 Final score: user = 6.5 computer = 3.5. Result: User wins
+2022-12-15 22:56:11,648 Final score: user = 0 computer = 0. Result: Draw
+2022-12-15 22:56:18,378 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:19,077 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:19,658 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:19,951 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:20,205 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:20,447 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:20,684 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:20,936 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:21,208 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:21,478 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:21,766 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:56:22,452 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:22,859 User choice = Rock, Computer Choice = Rock
+2022-12-15 22:56:23,154 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:23,408 User choice = Rock, Computer Choice = Paper
+2022-12-15 22:56:23,644 User choice = Rock, Computer Choice = Scissors
+2022-12-15 22:56:25,285 User choice = Paper, Computer Choice = Rock
+2022-12-15 22:56:26,805 Final score: user = 6.5 computer = 10.5. Result: Computer wins
+2022-12-15 22:59:03,322 User choice = Paper, Computer Choice = Paper
+2022-12-15 22:59:04,243 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:59:04,921 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:59:05,690 User choice = Paper, Computer Choice = Paper
+2022-12-15 22:59:06,361 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:59:07,038 User choice = Paper, Computer Choice = Scissors
+2022-12-15 22:59:07,693 User choice = Paper, Computer Choice = Rock
+2022-12-15 22:59:08,268 User choice = Paper, Computer Choice = Paper
+2022-12-15 22:59:09,690 Final score: user = 2.5 computer = 5.5. Result: Computer wins
+2022-12-15 23:01:50,337 User choice = Rock, Computer Choice = Rock
+2022-12-15 23:01:50,338 User choice = Paper, Computer Choice = Paper
+2022-12-15 23:01:50,338 User choice = Scissors, Computer Choice = Scissors
+2022-12-15 23:01:50,338 User choice = Rock, Computer Choice = Paper
+2022-12-15 23:01:50,338 User choice = Paper, Computer Choice = Scissors
+2022-12-15 23:01:50,338 User choice = Scissors, Computer Choice = Rock
+2022-12-15 23:01:50,338 User choice = Paper, Computer Choice = Rock
+2022-12-15 23:01:50,338 User choice = Rock, Computer Choice = Scissors
+2022-12-15 23:01:50,338 User choice = Scissors, Computer Choice = Paper
+2022-12-15 23:05:08,516 User choice = Paper, Computer Choice = Rock
+2022-12-15 23:05:10,332 Final score: user = 1.0 computer = 0.0. Result: User wins
+2022-12-15 23:05:18,231 User choice = Rock, Computer Choice = Rock
+2022-12-15 23:05:18,231 User choice = Paper, Computer Choice = Paper
+2022-12-15 23:05:18,231 User choice = Scissors, Computer Choice = Scissors
+2022-12-15 23:05:18,231 User choice = Rock, Computer Choice = Paper
+2022-12-15 23:05:18,231 User choice = Paper, Computer Choice = Scissors
+2022-12-15 23:05:18,232 User choice = Scissors, Computer Choice = Rock
+2022-12-15 23:05:18,232 User choice = Paper, Computer Choice = Rock
+2022-12-15 23:05:18,232 User choice = Rock, Computer Choice = Scissors
+2022-12-15 23:05:18,232 User choice = Scissors, Computer Choice = Paper
